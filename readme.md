@@ -133,11 +133,10 @@ Feel free to open an issue for feature requests, bug reports, or any other quest
 
 ## **Contributors:**
 
-| ![Pranjal Bhaskare](https://github.com/Pranjal-neo.png?size=100) |
+| ![Pranjal Bhaskare](https://github.com/Pranjalab.png?size=100) |
 |:----------------------------------------------------------------:|
-| [Pranjal Bhaskare](https://github.com/Pranjal-neo)               |
+| [Pranjal Bhaskare](https://github.com/Pranjalab)               |
 
 ## **License**
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
