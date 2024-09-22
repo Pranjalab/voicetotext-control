@@ -43,7 +43,7 @@ With support for real-time speech recognition and a flexible, platform-independe
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/voicetotext-control.git
+   git clone https://github.com/Pranjalab/voicetotext-control.git
    cd voicetotext-control
    ```
 
