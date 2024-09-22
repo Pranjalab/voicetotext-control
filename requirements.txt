@@ -2,4 +2,4 @@ pynput
 speechrecognition
 pyautogui
 pyaudio
-
+setuptools
